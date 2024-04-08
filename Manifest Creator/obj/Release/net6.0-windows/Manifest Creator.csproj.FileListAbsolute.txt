@@ -1,0 +1,17 @@
+C:\Users\DimkaTvoyDrug\source\repos\Manifest Creator\Manifest Creator\bin\Release\net6.0-windows\Manifest Creator.exe
+C:\Users\DimkaTvoyDrug\source\repos\Manifest Creator\Manifest Creator\bin\Release\net6.0-windows\Manifest Creator.deps.json
+C:\Users\DimkaTvoyDrug\source\repos\Manifest Creator\Manifest Creator\bin\Release\net6.0-windows\Manifest Creator.runtimeconfig.json
+C:\Users\DimkaTvoyDrug\source\repos\Manifest Creator\Manifest Creator\bin\Release\net6.0-windows\Manifest Creator.dll
+C:\Users\DimkaTvoyDrug\source\repos\Manifest Creator\Manifest Creator\bin\Release\net6.0-windows\Manifest Creator.pdb
+C:\Users\DimkaTvoyDrug\source\repos\Manifest Creator\Manifest Creator\obj\Release\net6.0-windows\Manifest Creator.csproj.AssemblyReference.cache
+C:\Users\DimkaTvoyDrug\source\repos\Manifest Creator\Manifest Creator\obj\Release\net6.0-windows\Manifest_Creator.Form1.resources
+C:\Users\DimkaTvoyDrug\source\repos\Manifest Creator\Manifest Creator\obj\Release\net6.0-windows\Manifest Creator.csproj.GenerateResource.cache
+C:\Users\DimkaTvoyDrug\source\repos\Manifest Creator\Manifest Creator\obj\Release\net6.0-windows\Manifest Creator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DimkaTvoyDrug\source\repos\Manifest Creator\Manifest Creator\obj\Release\net6.0-windows\Manifest Creator.AssemblyInfoInputs.cache
+C:\Users\DimkaTvoyDrug\source\repos\Manifest Creator\Manifest Creator\obj\Release\net6.0-windows\Manifest Creator.AssemblyInfo.cs
+C:\Users\DimkaTvoyDrug\source\repos\Manifest Creator\Manifest Creator\obj\Release\net6.0-windows\Manifest Creator.csproj.CoreCompileInputs.cache
+C:\Users\DimkaTvoyDrug\source\repos\Manifest Creator\Manifest Creator\obj\Release\net6.0-windows\Manifest Creator.dll
+C:\Users\DimkaTvoyDrug\source\repos\Manifest Creator\Manifest Creator\obj\Release\net6.0-windows\refint\Manifest Creator.dll
+C:\Users\DimkaTvoyDrug\source\repos\Manifest Creator\Manifest Creator\obj\Release\net6.0-windows\Manifest Creator.pdb
+C:\Users\DimkaTvoyDrug\source\repos\Manifest Creator\Manifest Creator\obj\Release\net6.0-windows\Manifest Creator.genruntimeconfig.cache
+C:\Users\DimkaTvoyDrug\source\repos\Manifest Creator\Manifest Creator\obj\Release\net6.0-windows\ref\Manifest Creator.dll
